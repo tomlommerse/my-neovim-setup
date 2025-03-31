@@ -1,3 +1,3 @@
 require("remaps")
-require("plugins")
 require("set")
+require("config.lazy")
